@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/MMMM/YYYY-MM-DD",
+    "folder": "Journal/Daily Notes",
+    "template": "Templets/Daily.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "template": "Templets/Weekly Goals and review.md",
+    "folder": "Journal/Weekly Goal & review",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "MMMM-YYYY",
+    "template": "Templets/Monthly Initiatives.md",
+    "folder": "Journal/Monthly Review & Goal",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "Templets/Yearly OKRs.md",
+    "folder": "Journal/Yealy OKRs",
+    "enabled": true
+  }
+}

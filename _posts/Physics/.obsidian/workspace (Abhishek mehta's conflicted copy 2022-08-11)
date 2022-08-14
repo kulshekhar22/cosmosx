@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "f2f29a767157dcf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c3df8475fb26f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biology/Biological Classification.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bb1e74b7753ea02",
+    "type": "split",
+    "children": [
+      {
+        "id": "8502bdf30f94f683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8048e4a08d9cd7e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c2b1d7393a7302a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mycorrhiza",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a996c99171fdb55",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c17c08ca4781aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "255f7681724f09a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d6b027e344729c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology/Biological Classification.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84764b4f7316aa20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biology/Biological Classification.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e9068216459aa62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6a9c265cec50a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biology/Biological Classification.md"
+              }
+            }
+          },
+          {
+            "id": "4fa4d06b6b7a5e35",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24c3df8475fb26f3",
+  "lastOpenFiles": [
+    "Biology/Classification in living World.md",
+    "Biology/Animal Kingdom.md",
+    "Chemistry/Basic Concepts of chemistry.md",
+    "Biology/Plant Kingdom.md",
+    "Newton's Laws of Motion.md",
+    "Physics/Wave motion and wave on a string.md",
+    "Physics/Wave.md",
+    "Biology/Living World.md",
+    "Biology/Nomenclature.md",
+    "Biology/Biological Classification.md"
+  ]
+}

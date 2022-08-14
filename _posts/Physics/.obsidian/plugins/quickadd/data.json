@@ -1,0 +1,35 @@
+{
+  "choices": [
+    {
+      "id": "c74b2dc2-3cc5-40a6-be6b-475d397a34ad",
+      "name": "Yearly Objective",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templets/Yearly Objectives.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "YYYY-00"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Journal",
+          "Journal/Yealy OKRs"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

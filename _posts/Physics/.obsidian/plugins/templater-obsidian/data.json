@@ -1,0 +1,37 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templets",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "Journal",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Journal",
+      "template": "Templets/Weekly Goals and review.md"
+    },
+    {
+      "folder": "",
+      "template": "Templets/Daily.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templets/Weekly Goals and review.md",
+    "Templets/Daily.md"
+  ],
+  "startup_templates": [
+    "Templets/Weekly Goals and review.md",
+    "Templets/Daily.md",
+    "Templets/Yearly Reeview.md",
+    "Templets/Yearly OKRs.md"
+  ]
+}
